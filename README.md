@@ -1,17 +1,22 @@
-# Nazmul Alam 👋
+## 🚀 About Me
+ # Nazmul Alam 👋 I'm a full stack developer...
+
 I'm Nazmul from Bangladesh, and I am working with  Design and Development. I am so much loving to react js and react native. Learning is my passion, I love to learn new things.. 
+
+
+
 
 <!--
 **shawonkst15/shawonkst15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on wev development
+- 🌱 I’m currently learning React js and react native
+- 👯 I’m looking to collaborate onteam work
+- 🤔 I’m looking for help with another developer
+- 💬 Ask me about
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
