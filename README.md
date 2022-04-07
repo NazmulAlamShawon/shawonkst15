@@ -3,6 +3,9 @@
 
 I'm Nazmul from Bangladesh, and I am working with  Design and Development. I am so much loving to react js and react native. Learning is my passion, I love to learn new things.. 
 
+## 🛠 Skills
+HTML,CSS, JAVASCRIPT,REACT.JS, REACT-NATIVE.JS,  JSON,FIGMA..
+
 
 
 
