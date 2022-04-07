@@ -1,4 +1,5 @@
-### Hi there 👋
+# Nazmul Alam 👋
+I'm Nazmul from Bangladesh, and I am working with  Design and Development. I am so much loving to react js and react native. Learning is my passion, I love to learn new things.. 
 
 <!--
 **shawonkst15/shawonkst15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
