@@ -3,17 +3,20 @@
         "- 🔭 I’m currently working on":      "I am currently working with my own project build up my profile.r", <br>
         "- 🌱 I’m currently learning":        " Javascript, React.js ,Firebase,MongoDB,Node.js and express js. and alsolearning . Full stack ", <br>
         "- 🤔 I’m looking for help with":     "Anytime if you can reach me, i can help you 😅",<br>
-        "- 💬 Ask me about":                  "Web Design (HTML,CSS,Bootstrap5.0 and Tailwind, Web devlopment(javascript,React js.Firebase,Tailwind css)  " <br>
+        "- 💬 Ask me about": 
+        "Web Design (HTML,CSS,Bootstrap5.0 and Tailwind, Web devlopment(javascript,React js.Firebase,Tailwind css)  " <br>
+     
         
-        <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+        <h3> 🛠 Tech Stack</h3> <br>
+ 
+ 
+ 🌐 &nbsp;<br>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)<br>
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)<br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)<br>
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)<br>
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)<br>
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)<br>
 
 
         <a href="https://github.com/shawonkst15">
