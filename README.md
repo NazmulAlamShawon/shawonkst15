@@ -1,25 +1,7 @@
-## 🚀 About Me
- # Nazmul Alam 👋 I'm a front end developer...
-
-I'm Nazmul from Bangladesh, and I am working with  Design and Development. I am so much loving to react js and react native. Learning is my passion, I love to learn new things.. 
-
-## 🛠 Skills
-HTML,CSS, JAVASCRIPT,REACT.JS, REACT-NATIVE.JS, JSON, FIGMA..
-
-
-
-
-<!--
-**shawonkst15/shawonkst15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on wev development
-- 🌱 I’m currently learning React js and react native
-- 👯 I’m looking to collaborate onteam work
-- 🤔 I’m looking for help with another developer
-- 💬 Ask me about
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nazmul Alam
+ "- ⚡ Quick bio:":                           "I am a traveller,photographer,sports-lover and full time coder", <br>
+        "- 🔭 I’m currently working on":      "I am currently working with my own project build up my profile.r", <br>
+        "- 🌱 I’m currently learning":        " Javascript, React.js ,Firebase,MongoDB,Node.js and express js. and alsolearning . Full stack ", <br>
+        "- 🤔 I’m looking for help with":     "Anytime if you can reach me, i can help you 😅",<br>
+        "- 💬 Ask me about":                  "Web Design (HTML,CSS,Bootstrap5.0 and Tailwind, Web devlopment(javascript,React js.Firebase,Tailwind css)  " <br>
+```
